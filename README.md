@@ -1,2 +1,2 @@
 # diario-de-estudos
-(como eu resolvi aprender programação aos 35)
+(como eu resolvi aprender programação depois dos trinta)
